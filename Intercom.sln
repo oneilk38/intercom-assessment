@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intercom.Service.Main", "src\Intercom.Service.Main\Intercom.Service.Main.csproj", "{B6CC5387-59A0-4C21-8BE3-8D97CEE28003}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intercom.Tests.UnitTests", "src\Intercom.Tests.UnitTests\Intercom.Tests.UnitTests.csproj", "{77A4E06A-6FC3-486C-8D8F-4B8E8D9DF297}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intercom.Library.CustomerInviter", "src\Intercom.Library.CustomerInviter\Intercom.Library.CustomerInviter.csproj", "{A5398349-3019-4F68-9091-CE68F39CED6D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Intercom.Tests.IntegrationTests", "src\Intercom.Tests.IntegrationTests\Intercom.Tests.IntegrationTests.csproj", "{B7284519-BE50-41F5-B8C4-37AE3993AF15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6CC5387-59A0-4C21-8BE3-8D97CEE28003}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6CC5387-59A0-4C21-8BE3-8D97CEE28003}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6CC5387-59A0-4C21-8BE3-8D97CEE28003}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6CC5387-59A0-4C21-8BE3-8D97CEE28003}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77A4E06A-6FC3-486C-8D8F-4B8E8D9DF297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A4E06A-6FC3-486C-8D8F-4B8E8D9DF297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77A4E06A-6FC3-486C-8D8F-4B8E8D9DF297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77A4E06A-6FC3-486C-8D8F-4B8E8D9DF297}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5398349-3019-4F68-9091-CE68F39CED6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5398349-3019-4F68-9091-CE68F39CED6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5398349-3019-4F68-9091-CE68F39CED6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5398349-3019-4F68-9091-CE68F39CED6D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7284519-BE50-41F5-B8C4-37AE3993AF15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7284519-BE50-41F5-B8C4-37AE3993AF15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7284519-BE50-41F5-B8C4-37AE3993AF15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7284519-BE50-41F5-B8C4-37AE3993AF15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
