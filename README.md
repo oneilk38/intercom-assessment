@@ -1,5 +1,6 @@
 # intercom-assessment
 This is my submission for the intercom take home assessment. Please see steps below on how to run locally and run tests. I have included my output in the root of this repo in a file called ``output.txt``.
+The submission for the second part of the assessment is in the file ``ProudestAchievement.md``. 
 
 ## Info 
 This project is written in C#, with Unit Tests and Integration tests also written in C#, using Xunit and Moq. 
